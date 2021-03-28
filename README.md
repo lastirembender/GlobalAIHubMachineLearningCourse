@@ -9,13 +9,12 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Description of your project.
+Final projesinde diamonds.csv dosyası kullanılarak mücevherlerin fiyatlarının mücevherlerin özellikleriyle ilişkileri modellenmiştir.
 
 ## Requirements
 ```
 Some python libraries
-Some python libraries
-Some python libraries
+
 ```
 ---
 
